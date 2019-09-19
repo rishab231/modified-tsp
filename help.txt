@@ -1,0 +1,28 @@
+- Think about adverserial inputs for greedy algorithm
+
+1. Fixing the path that that minimizes the path -> reduce to an NP complete problem
+
+2. Fixing the number of vertices -> reduce to an NP complete problem
+
+a. Travelling salesman problem -- change the connected graph to a complete graph using some heuristic
+
++ STEINER TREE (In HW)
+
+b. Set cover (vertex cover)
+
+1. Use randomness
+2. Use as many libraries as possible
+3. Start early
+
+
+Citations:
+
+http://www.organicorigami.com/thrackle/class/cse591/notes/591SteinerAndTSP-Handout.pdf
+
+https://github.com/paromise/steiner/tree/master/python
+
+https://github.com/suzhiyang/weightedsetcover
+
+https://github.com/theofilis/approximate-metric-tsp
+
+Important: http://www.dcs.warwick.ac.uk/~tiskin/pub/talks/dtree-talk.pdf
